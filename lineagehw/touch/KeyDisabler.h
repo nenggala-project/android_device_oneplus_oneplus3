@@ -16,7 +16,7 @@
 
 #pragma once
 
-#include <vendor/lineage/touch/1.0/IKeyDisabler.h>
+#include <vendor/nenggala/touch/1.0/IKeyDisabler.h>
 
 namespace vendor {
 namespace lineage {

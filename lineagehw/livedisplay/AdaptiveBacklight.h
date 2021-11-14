@@ -16,7 +16,7 @@
 
 #pragma once
 
-#include <vendor/lineage/livedisplay/2.0/IAdaptiveBacklight.h>
+#include <vendor/nenggala/livedisplay/2.0/IAdaptiveBacklight.h>
 
 namespace vendor {
 namespace lineage {
