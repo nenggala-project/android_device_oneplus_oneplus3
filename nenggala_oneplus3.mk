@@ -26,7 +26,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 # Vendor security patch level
 VENDOR_SECURITY_PATCH := 2019-10-01
 
-PRODUCT_NAME := lineage_oneplus3
+PRODUCT_NAME := nenggala_oneplus3
 PRODUCT_DEVICE := oneplus3
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
