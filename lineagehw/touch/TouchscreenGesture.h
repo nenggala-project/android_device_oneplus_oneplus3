@@ -16,7 +16,7 @@
 
 #pragma once
 
-#include <vendor/nenggala/touch/1.0/ITouchscreenGesture.h>
+#include <vendor/lineage/touch/1.0/ITouchscreenGesture.h>
 
 namespace vendor {
 namespace lineage {
